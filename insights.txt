@@ -1,0 +1,9 @@
+after analysing the dataset we can find that 
+
+fibre optic connection has the most customers
+
+most of the revenue is recived via electronic checks
+
+and customer are more likely to churn on their 1st year 
+
+senior citizen are less likely to churn in all time durartion 
